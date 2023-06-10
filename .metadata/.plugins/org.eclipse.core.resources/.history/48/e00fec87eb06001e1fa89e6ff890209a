@@ -1,0 +1,5 @@
+package com.springmvcdemo1.controller;
+
+public class LoginController {
+
+}
